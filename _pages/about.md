@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am a fifth-year Ph.D. student in Computer Science at University of California, San Diego (UCSD). I am a member of Systems and Networking group ([Sysnet](https://www.google.com/url?q=http%3A%2F%2Fwww.sysnet.ucsd.edu%2Fsysnet%2F&sa=D)) working with [Dinesh Bharadia](https://www.google.com/url?q=http%3A%2F%2Fweb.eng.ucsd.edu%2F~dineshb%2F&sa=D) and [Aaron Schulman](https://www.google.com/url?q=http%3A%2F%2Fcseweb.ucsd.edu%2F~schulman%2F&sa=D). I am also affiliated with [CNS](https://www.google.com/url?q=https%3A%2F%2Fcns.ucsd.edu&sa=D) and [WCSNG](https://www.google.com/url?q=http%3A%2F%2Fwcsng.ucsd.edu%2Findex.html&sa=D). My research interests span machine learning, wireless sensing, and security. More specifically, I am developing machine learning and signal processsing algorithms to solve different problems in wireless sensing and security. My research is supported by IARPA and Qualcomm Innovation Fellowship.
+<br />
 Before joining UCSD, I got my bachelors in Electrical Engineering (Communication Systems) at Sharif University of Technology with a minor in Computer Science, under the supervision of [Mohammad-Ali Maddah-Ali](https://scholar.google.com/citations?user=CFIJZwoAAAAJ&hl=en) and [Babak Khalaj](https://www.google.com/url?q=http%3A%2F%2Fsharif.edu%2F~khalaj%2F&sa=D). We worked on probabilistic modeling and designing efficient memory sharing algorithms for Big Data processing systems using information theoretic approaches.
 
 News
