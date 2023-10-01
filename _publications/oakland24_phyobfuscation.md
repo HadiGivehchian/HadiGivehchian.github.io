@@ -3,7 +3,7 @@ title: "Practical Obfuscation of BLE Physical-Layer Fingerprints on Mobile Devic
 collection: publications
 permalink: /publication/oakland24_phyobfuscation
 date: 2024-05-20
-authors: 'Hadi Givehchian, Nishant Bhaskar, Alexander Redding, Han Zhao, Aaron Schulman, and Dinesh Bharadia'
+authors: 'Hadi Givehchian, Nishant Bhaskar, Alexander Redding, Han Zhao, Aaron Schulman, Dinesh Bharadia'
 venue: 'IEEE Symposium on Security and Privacy (SP)'
 paperurl: 'http://HadiGivehchian.github.io/files/oakland24_phyobfuscation.pdf'
 excerpt_separator: ""
