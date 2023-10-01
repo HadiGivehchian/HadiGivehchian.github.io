@@ -14,7 +14,7 @@ Before joining UCSD, I got my B.S. degree in Electrical Engineering (Communicati
 
 News
 ======
-* July 2023: IEEE S&P (Oakland) 2024 paper accepted on Practical Obfuscation of BLE Physical-Layer Fingerprints on Mobile Devices.
+* July 2023: [IEEE S&P (Oakland) 2024 paper](http://HadiGivehchian.github.io/files/oakland24_phyobfuscation.pdf) accepted on Practical Obfuscation of BLE Physical-Layer Fingerprints on Mobile Devices.
 * March 2023: Our team successfully passed phase 1 of [SCISRS](https://www.iarpa.gov/research-programs/scisrs) program. This was a year-long effort to build an end-to-end system to automatically detect and characterize RF anomalies in complex RF environments using machine learning and signal processing.
 * Oct 2022: [TCAS-II paper](https://ieeexplore.ieee.org/abstract/document/9926141) accepted on Protecting bluetooth user privacy through obfuscation of carrier frequency offset.
 * July 2021: [IEEE S&P (Oakland) 2022 paper](https://ieeexplore.ieee.org/abstract/document/9833758) accepted on Evaluating physical-layer ble location tracking attacks on mobile devices.
