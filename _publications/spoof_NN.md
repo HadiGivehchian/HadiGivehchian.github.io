@@ -5,4 +5,5 @@ permalink: /publication/spoof_NN
 date: 2022-11-08
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2211.04269.pdf'
+authors: 'Daniel Romero, Peter Gerstoft, Hadi Givehchian, Dinesh Bharadia'
 ---
