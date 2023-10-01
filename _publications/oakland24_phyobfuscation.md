@@ -1,0 +1,13 @@
+---
+title: "Practical Obfuscation of BLE Physical-Layer Fingerprints on Mobile Devices"
+collection: publications
+permalink: /publication/oakland24_phyobfuscation
+date: 2024-05-20
+authors: 'Hadi Givehchian, Nishant Bhaskar, Alexander Redding, Han Zhao, Aaron Schulman, and Dinesh Bharadia'
+venue: 'IEEE Symposium on Security and Privacy (SP)'
+paperurl: 'http://HadiGivehchian.github.io/files/oakland24_phyobfuscation.pdf'
+excerpt_separator: ""
+---
+Mobile devices continuously beacon Bluetooth Low Energy (BLE) advertisement packets. This has created the threat of attackers identifying and tracking a device by sniffing its BLE signals. To mitigate this threat, MAC address ran- domization has been deployed at the link-layer in most BLE transmitters. However, attackers can bypass MAC address randomization using lower-level physical-layer fingerprints re- sulting from manufacturing imperfections of radios. In this work, we demonstrate a practical and effective method of obfuscating physical-layer hardware imperfection fingerprints. Through theoretical analysis, simulations, and field evaluations, we design and evaluate our approach to hardware imperfec- tion obfuscation. By analyzing data from thousands of BLE devices, we demonstrate obfuscation significantly reduces the accuracy of identifying a target device. This makes an attack impractical, even if a target is continuously observed for 24 hours. Furthermore, we demonstrate the practicality of this defense by implementing it by making firmware changes to commodity BLE chipsets.
+
+[Download paper here](http://HadiGivehchian.github.io/files/oakland24_phyobfuscation.pdf)
