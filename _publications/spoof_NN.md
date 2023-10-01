@@ -6,4 +6,8 @@ date: 2022-11-08
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2211.04269.pdf'
 authors: 'Daniel Romero, Peter Gerstoft, Hadi Givehchian, Dinesh Bharadia'
+excerpt_separator: ""
 ---
+In a spoofing attack, an attacker impersonates a legitimate user to access or tamper with data intended for or produced by the legitimate user. In wireless communication systems, these attacks may be detected by relying on features of the channel and transmitter radios. In this context, a popular approach is to exploit the dependence of the received signal strength (RSS) at multiple receivers or access points with respect to the spatial location of the transmitter. Existing schemes rely on long-term estimates, which makes it difficult to distinguish spoofing from movement of a legitimate user. This limitation is here addressed by means of a deep neural network that implicitly learns the distribution of pairs of short-term RSS vector estimates. The adopted network architecture imposes the invariance to permutations of the input (commutativity) that the decision problem exhibits. The merits of the proposed algorithm are corroborated on a data set that we collected.
+
+[Paper](https://arxiv.org/pdf/2211.04269.pdf)
