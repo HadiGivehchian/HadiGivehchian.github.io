@@ -14,20 +14,20 @@ Before joining UCSD, I got my B.Sc. degree in Electrical Engineering (Communicat
 
 ## Publications
 
-[**Practical Obfuscation of BLE Physical-Layer Fingerprints on Mobile Devices**](http://HadiGivehchian.github.io/files/oakland24_phyobfuscation.pdf) </br>
-**Hadi Givehchian**, Nishant Bhaskar, Alexander Redding, Han Zhao, Aaron Schulman, Dinesh Bharadia </br>
+[**Practical Obfuscation of BLE Physical-Layer Fingerprints on Mobile Devices**](http://HadiGivehchian.github.io/files/oakland24_phyobfuscation.pdf) <br>
+**Hadi Givehchian**, Nishant Bhaskar, Alexander Redding, Han Zhao, Aaron Schulman, Dinesh Bharadia <br>
 2024 IEEE Symposium on Security and Privacy (SP)
 
-[**Spoofing attack detection in the physical layer with commutative neural networks**](https://arxiv.org/pdf/2211.04269.pdf) </br>
+[**Spoofing attack detection in the physical layer with commutative neural networks**](https://arxiv.org/pdf/2211.04269.pdf) <br>
 Daniel Romero, Peter Gerstoft, **Hadi Givehchian**, Dinesh Bharadia
 
-[**Protecting bluetooth user privacy through obfuscation of carrier frequency offset**](https://ieeexplore.ieee.org/abstract/document/9926141) </br>
-Ali Nikoofard, **Hadi Givehchian**, Nishant Bhaskar, Aaron Schulman, Dinesh Bharadia, Patrick P Mercier </br>
+[**Protecting bluetooth user privacy through obfuscation of carrier frequency offset**](https://ieeexplore.ieee.org/abstract/document/9926141) <br>
+Ali Nikoofard, **Hadi Givehchian**, Nishant Bhaskar, Aaron Schulman, Dinesh Bharadia, Patrick P Mercier <br>
 2022 IEEE Transactions on Circuits and Systems II
 
-[**Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices**](https://ieeexplore.ieee.org/abstract/document/9833758) </br>
-**Hadi Givehchian**, Nishant Bhaskar, Eliana Rodriguez Herrera, Héctor Rodrigo López Soto, Christian Dameff, Dinesh Bharadia, Aaron Schulman </br>
-2022 IEEE Symposium on Security and Privacy (SP) </br>
+[**Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices**](https://ieeexplore.ieee.org/abstract/document/9833758) <br>
+**Hadi Givehchian**, Nishant Bhaskar, Eliana Rodriguez Herrera, Héctor Rodrigo López Soto, Christian Dameff, Dinesh Bharadia, Aaron Schulman <br>
+2022 IEEE Symposium on Security and Privacy (SP) <br>
 Media Coverage: [The Register](https://www.theregister.com/2021/10/22/bluetooth_tracking_device/) 
 &nbsp;&nbsp;
 [IEEE Spectrum](https://spectrum.ieee.org/bluetooth-security)
@@ -38,10 +38,10 @@ Media Coverage: [The Register](https://www.theregister.com/2021/10/22/bluetooth_
 
 
 ## Patents
-**RF-sensing-based human identification using combined gait and shape recognition** </br>
+**RF-sensing-based human identification using combined gait and shape recognition** <br>
 **Hadi Givehchian**, Xiaoxin Zhang, Peyman Siyari
 
-**Generating indoor maps based on radio frequency sensing** </br>
+**Generating indoor maps based on radio frequency sensing** <br>
 **Hadi Givehchian**, Xiaoxin Zhang, Peyman Siyari
 
 <!---
