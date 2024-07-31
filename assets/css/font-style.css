@@ -1,0 +1,7 @@
+.small-text {
+    font-size: 12px;
+}
+.small-text a {
+    font-size: 12px;
+    color: blue; /* Adjust link color if needed */
+}
