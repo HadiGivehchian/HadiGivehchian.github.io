@@ -65,6 +65,14 @@ Media Coverage: [The Register](https://www.theregister.com/2021/10/22/bluetooth_
     <em>TSNE of the fingerprint embeddings for WiFi transmitters.</em>
 </p>
 
+
+ {% include base_path %}
+
+ {% for post in site.publications reversed %}
+   {% include archive-single.html %}
+ {% endfor %}
+ 
+[sss](/publication/spoof_NN)
 [sss](/_publications/spoof_NN.md)
 
 
