@@ -38,6 +38,11 @@ Media Coverage: [The Register](https://www.theregister.com/2021/10/22/bluetooth_
 &nbsp;&nbsp;
 [India Today](https://www.indiatoday.in/technology/news/story/bluetooth-on-phone-can-reveal-the-location-of-a-user-a-new-study-finds-1874760-2021-11-09)
 
+[**Revealing Hidden IoT Devices through Passive Detection, Fingerprinting, and Localization**]()
+<br>
+Wei Sun, **Hadi Givehchian**, Dinesh Bharadia <br>
+To appear at the 2025 Privacy Enhancing Technologies Symposium
+
 <br>
 
 ## Patents
